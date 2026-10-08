@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Nataniel 👋
 
-<!--
-**Nataniel-Silva24/Nataniel-Silva24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de BI em transição para Ciência de Dados. Trabalho com Power BI, SQL e AWS (S3, Glue, Athena) e estou construindo projetos públicos de ML, estatística e engenharia de dados.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Dados e análise:** SQL, Python, pandas, Power BI, Excel
+- **Cloud:** AWS (S3, Glue, Athena)
+- **Em evolução:** scikit-learn, estatística aplicada, deploy de modelos
+
+## Projetos
+
+*Em construção. Os primeiros projetos aparecem aqui nas próximas semanas.*
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/nataniel-da-silva-604992156)
